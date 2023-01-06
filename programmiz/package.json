@@ -1,0 +1,16 @@
+{
+  "name": "programmiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "type": "module",
+  "scripts": {
+    "test": "node 1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
